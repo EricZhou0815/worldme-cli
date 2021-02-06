@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/worldme-cli/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/worldme-cli/static/js/main.896e7359.chunk.js",
+    "main.js.map": "/worldme-cli/static/js/main.896e7359.chunk.js.map",
+    "runtime-main.js": "/worldme-cli/static/js/runtime-main.d0e88a2d.js",
+    "runtime-main.js.map": "/worldme-cli/static/js/runtime-main.d0e88a2d.js.map",
+    "static/js/2.8ca07578.chunk.js": "/worldme-cli/static/js/2.8ca07578.chunk.js",
+    "static/js/2.8ca07578.chunk.js.map": "/worldme-cli/static/js/2.8ca07578.chunk.js.map",
+    "static/js/3.23a825fc.chunk.js": "/worldme-cli/static/js/3.23a825fc.chunk.js",
+    "static/js/3.23a825fc.chunk.js.map": "/worldme-cli/static/js/3.23a825fc.chunk.js.map",
+    "index.html": "/worldme-cli/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/worldme-cli/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8ca07578.chunk.js.LICENSE.txt": "/worldme-cli/static/js/2.8ca07578.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e88a2d.js",
+    "static/js/2.8ca07578.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.896e7359.chunk.js"
+  ]
+}
